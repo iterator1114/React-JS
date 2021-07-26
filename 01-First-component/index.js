@@ -4,4 +4,5 @@ class Hello extends React.Component {
     }
 }
 
+// Adding our component to HTML
 ReactDOM.render(<Hello />, document.getElementById('root'));
